@@ -8,7 +8,7 @@ feed 20m http://www.courault.com.ar/?feed=rss2
 
 # Gaston Ramos
 feed 20m http://gastonramos.wordpress.com/feed/ 
-    define_name Gaston Ramos
+    define_name Gast&#243;n Ramos
 
 # German Bortoli
 feed 20m http://geoks.com.ar/blog/feed
