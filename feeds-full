@@ -47,7 +47,7 @@ feed 20m http://feeds2.feedburner.com/n/openminded
     define_name Luis Larrateguy
 
 # Federico Baroni
-feed 20m http://www.fedexb.com.ar/?feed=atom
+feed 20m http://www.fedexb.com.ar/?feed=atom&tag=lugli
     define_name Federico Baroni
 
 # Lucas C
