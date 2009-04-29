@@ -1,0 +1,16 @@
+<fvdoc>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<div id='message'>
+<p><code>foo</code> must be an ISO-8601 date</p>
+</div>
+<div id='explanation'>
+<p>Invalid date.</p>
+</div>
+<div id='solution'>
+<p>The value specified must adhere to the
+<a href="http://www.iso.ch/iso/en/prods-services/popstds/datesandtime.html">ISO 8601</a>
+Date format. </p>
+
+</div>
+</div>
+</fvdoc>

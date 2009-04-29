@@ -1,0 +1,13 @@
+<fvdoc>
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<div id='message'>
+<p><code>thr:when</code> attribute obsolete; use <code>thr:updated</code> instead</p>
+</div>
+<div id='explanation'>
+<p>The <code>thr:when</code> attribute existed in earlier drafts of the Atom Threading Extension proposal, but an alternate syntax was chosen instead.</p>
+</div>
+<div id='solution'>
+<p>Use the <a href="http://www.ietf.org/rfc/rfc4685.txt">thr:updated</a> attribute instead.</p>
+</div>
+</div>
+</fvdoc>

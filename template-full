@@ -1,0 +1,27 @@
+<%inherit file="template-base"/>
+<%def name="titulo()">
+Planeta Python Argentina
+</%def>
+
+<%def name="barra()"> 
+<a href="http://python.org.ar">Python Argentina</a>&nbsp;&bull;&nbsp;
+<a href="http://planeta.python.org.ar/python.html">S&oacute;lo Python</a>
+</%def>
+
+<%def name="grazr()">
+<div style="height:400px;width:100%;">
+    <a href="http://grazr.com/read?view=s&file=http://planeta.python.org.ar/feeds.opml" >
+        <img alt="Grazr" src="http://static.grazr.com/images/grazrbadge.png" style="border:none">
+    </a>
+    <script defer="defer" type="text/javascript" src="http://static.grazr.com/gzloader.js?view=s&amp;file=http://planeta.python.org.ar/feeds.opml"></script>
+    <a href="http://planeta.python.org.ar/feeds.opml">OPML</a> - 
+    <a href="http://planeta.python.org.ar/foafroll.xml">FOAF</a> - 
+    <a href="http://planeta.python.org.ar/index.xml">RSS</a> -
+    <a href="http://planeta.python.org.ar/log.html">Log</a>
+</div>
+</%def>
+
+<%def name="validrss()">
+<a href="http://feedvalidator.org.li.sabren.com/check.cgi?url=http%3A//planeta.python.org.ar/index.xml"><img src="valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<a href="http://validator.opml.org/?url=http%3A%2F%2Fplaneta.python.org.ar%2Ffeeds.opml"><img src="http://images.scripting.com/archiveScriptingCom/2005/10/31/valid3.gif" width="114" height="20" border="0" alt="OPML checked by validator.opml.org."></a>
+</%def>
