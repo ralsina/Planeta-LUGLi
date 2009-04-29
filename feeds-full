@@ -53,3 +53,7 @@ feed 20m http://www.fedexb.com.ar/?feed=atom
 # Lucas C
 feed 20m http://naufradata.blogspot.com/feeds/posts/default
     define_name Lucas C
+
+# Freesoft
+feed 20m http://freesoftlinux.blogspot.com 
+    define_name Freesoft
