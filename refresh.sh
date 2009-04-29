@@ -1,19 +1,16 @@
 #!/bin/sh
 
-# Script para regenerar planeta PyAr
-cd ~/.rawdog
+# Script para regenerar planeta LUGLi
+cd ~/Planeta-LUGLi
 
 # Regenerar la configuración
 python merge-config.py
 
 # Bajar los feeds
-rawdog -u
+rawdog -d . -u
 
 # Regenerar planeta full
-LANG=es_ES rawdog -c config-full -w
-
-# Regenerar planeta solo python
-LANG=es_ES rawdog -c config-python -w
+LANG=es_ES rawdog -d ~/Planeta-LUGLi -c config-full -w
 
 # Subir a github
 git commit -a

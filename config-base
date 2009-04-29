@@ -20,8 +20,8 @@ plugindirs plugins
 #                   (defaults to maxarticles if not specified)
 
 # Opci√n para guardar log de status de feeds
-statuslogfile /srv/www/pyar/log
-statusoutputfile /srv/www/pyar/log.html
+statuslogfile /srv/www/lugli/log
+statusoutputfile /srv/www/lugli/log.html
 
 # Whether to split rawdog's state amongst multiple files.
 # To use this option, you must first "mkdir ~/.rawdog/feeds".
