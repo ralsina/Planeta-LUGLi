@@ -62,3 +62,6 @@ feed 20m http://freesoftlinux.blogspot.com
 feed 20m http://joakinc.blogspot.com/feeds/posts/default
     define_name Joaquin Ca&#241;ete
 
+# Juanjo Conti
+feed 20m http://juanjoconti.com.ar/feed
+    define_name Juanjo Conti
