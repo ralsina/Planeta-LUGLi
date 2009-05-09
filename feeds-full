@@ -65,3 +65,7 @@ feed 20m http://joakinc.blogspot.com/feeds/posts/default
 # Juanjo Conti
 feed 20m http://juanjoconti.com.ar/feed
     define_name Juanjo Conti
+
+# Juan Manuel Mart√nez
+feed 20m http://funky.mooo.com/blog/feed/
+    define_name Juan Manuel Mart&#237;nez
