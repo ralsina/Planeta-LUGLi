@@ -4,7 +4,7 @@ Planeta LUGLi
 </%def>
 
 <%def name="barra()"> 
-Blogs de miembros del <a href="http://lugli.org.ar">LUGLi</a>
+<span>Blogs de miembros del <a href="http://lugli.org.ar">LUGLi</a></span>
 </%def>
 
 <%def name="grazr()">
