@@ -67,8 +67,8 @@ feed 20m http://juanjoconti.com.ar/feed
     define_name Juanjo Conti
 
 # Juan Manuel Mart√nez
-#feed 20m http://funky.mooo.com/blog/feed/
-#    define_name Juan Manuel Mart&#237;nez
+feed 20m http://jm-martinez.com.ar/blog/tag/lugli/feed/
+    define_name Juan Manuel Mart&#237;nez
 
 # Fabi√°n Flores
 feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
