@@ -75,5 +75,5 @@ feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
     define_name Fabi&#225;n Flores
 
 # Juan Pablo Taulamet
-feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
+feed 20m http://www.taulamet.com.ar/feeds/posts/default?alt=rss
     define_name Juan Pablo Taulamet
