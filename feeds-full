@@ -77,3 +77,7 @@ feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
 # Juan Pablo Taulamet
 feed 20m http://www.taulamet.com.ar/feeds/posts/default?alt=rss
     define_name Juan Pablo Taulamet
+
+# Maximiliano Boscovich
+feed 20m http://maximilianoboscovich.wordpress.com/feed/
+    define_name Maximiliano Boscovich
