@@ -81,3 +81,7 @@ feed 20m http://www.taulamet.com.ar/feeds/posts/default?alt=rss
 # Maximiliano Boscovich
 feed 20m http://maximilianoboscovich.wordpress.com/feed/
     define_name Maximiliano Boscovich
+
+# Roberto Alsina
+feed 20m http://feeds.feedburner.com/LateralOpinionEsp
+    define_name Roberto Alsina
