@@ -66,9 +66,10 @@ feed 20m http://joakinc.blogspot.com/feeds/posts/default
 feed 20m http://juanjoconti.com.ar/feed
     define_name Juanjo Conti
 
+# Da error hace mucho
 # Juan Manuel Mart√nez
-feed 20m http://jm-martinez.com.ar/blog/tag/lugli/feed/
-    define_name Juan Manuel Mart&#237;nez
+#feed 20m http://jm-martinez.com.ar/blog/tag/lugli/feed/
+#    define_name Juan Manuel Mart&#237;nez
 
 # Fabi√°n Flores
 #feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
