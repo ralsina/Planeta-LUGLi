@@ -86,3 +86,7 @@ feed 20m http://maximilianoboscovich.wordpress.com/feed/
 # Roberto Alsina
 feed 20m http://feeds.feedburner.com/LateralOpinionEsp
     define_name Roberto Alsina
+
+# Cesar Portela
+feed 20m http://www.ceportela.com.ar/feed/atom/
+    define_name Cesar Portela
