@@ -15,7 +15,7 @@ feed 20m http://geoks.com.ar/blog/feed
     define_name German Bortoli
 
 # Juan A. Wuethrich
-feed 20m http://ubuntuway.com.ar/feed/
+feed 20m http://ubuntuway.wordpress.com/feed
     define_name Juan A. Wuethrich
 
 # Emiliano Lopez
