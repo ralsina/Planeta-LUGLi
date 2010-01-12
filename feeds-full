@@ -72,8 +72,8 @@ feed 20m http://juanjoconti.com.ar/feed
 #    define_name Juan Manuel Mart&#237;nez
 
 # Fabián Flores
-#feed 20m http://tecnoweblog.blogspot.com/feeds/posts/default
-#    define_name Fabi&#225;n Flores
+feed 20m http://feeds2.feedburner.com/SpeedBooksArgentina
+    define_name Fabi&#225;n Flores
 
 # Juan Pablo Taulamet
 feed 20m http://www.taulamet.com.ar/feeds/posts/default?alt=rss
