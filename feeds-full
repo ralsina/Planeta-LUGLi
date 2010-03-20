@@ -90,3 +90,7 @@ feed 20m http://feeds.feedburner.com/LateralOpinionEsp
 # Cesar Portela
 feed 20m http://www.ceportela.com.ar/feed/atom/
     define_name Cesar Portela
+
+# Milton Pividori
+feed 20m http://www.miltonpividori.com.ar/feed/
+    define_name Milton Pividori 
