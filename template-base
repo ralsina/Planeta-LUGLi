@@ -48,9 +48,6 @@ ${self.barra()}
 ${items}
 </div>
 <div id="feedstats">
-    <div id="grazr">
-    ${self.grazr()}
-    </div>
     <h2 id="feedstatsheader">Blogs</h2>
     <div id="feedlist">
         ${self.readopml(self.opmlfile())}
