@@ -27,8 +27,8 @@ feed 20m http://chinolibre.blogspot.com/feeds/posts/default
     define_name Alejandro Regodesebes
 
 # Daniel Alejandro Mendoza
-feed 20m http://siempredesdeaca.blogspot.com/feeds/posts/default
-    define_name Daniel Alejandro Mendoza
+#feed 20m http://siempredesdeaca.blogspot.com/feeds/posts/default
+#    define_name Daniel Alejandro Mendoza
 
 # Marcos Raul Carot Collins
 feed 20m http://marcos.carotcollins.com/?feed=rss2&category=lugli
